@@ -1,5 +1,9 @@
 {
     "0": {"url": "https://raw.githubusercontent.com/SkyWingGame/BeautyJam/refs/heads/main/0", "chapter": 25, "chapterSubs": 6},
     "1": {"url": "https://raw.githubusercontent.com/SkyWingGame/BeautyJam/refs/heads/main/1", "chapter": 25, "chapterSubs": 6},
-    "levels":{"s_ad":3}
+     "levels": { 
+            "s_ad": 3,
+            "color": {"1-20":3,"21-40":4,"41-60":4,"61-80":4,"81-100":4,"default":4},
+            "unit": {"1-20":2,"21-40":2,"41-60":2,"61-80":2,"81-100":2,"default":2}
+        }
 }
